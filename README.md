@@ -169,7 +169,7 @@ const rupraj = {
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 
-[Repository](REPO_URL_1) · [Live Demo](LIVE_URL_1)
+[Repository](https://github.com/ruprajkundu7-rgb/Trapify) · [Live Demo](LIVE_URL_1)
 
   </td>
   <td width="50%" valign="top">
@@ -180,29 +180,12 @@ const rupraj = {
 <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 
-[Repository](REPO_URL_2) · [Live Demo](LIVE_URL_2)
+[Repository](https://github.com/ruprajkundu7-rgb/OFFIFY) · [Live Demo](LIVE_URL_2)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### PROJECT_NAME_3
-*Short one-line description of what it does and why it matters.*
-
-<img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-
-[Repository](REPO_URL_3)
-
-  </td>
-  <td width="50%" valign="top">
-
-### PROJECT_NAME_4
-*Short one-line description of what it does and why it matters.*
-
-<img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
-
-[Repository](REPO_URL_4)
 
   </td>
   </tr>
@@ -223,7 +206,7 @@ const rupraj = {
   <a href="https://www.linkedin.com/in/rupraj-kundu-4b4b26311/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn" /></a>
   <a href="https://github.com/ruprajkundu7-rgb"><img src="https://img.shields.io/badge/GitHub-Follow-bb9af7?style=flat-square&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub" /></a>
   <a href="https://rupraj.net"><img src="https://img.shields.io/badge/Portfolio-Visit-2ac3de?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1b26" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-7aa2f7?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" /></a>
+  <a href="mailto:ruprajkundu7@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-7aa2f7?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email" /></a>
 </div>
 
 <br>
