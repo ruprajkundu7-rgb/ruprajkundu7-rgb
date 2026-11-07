@@ -162,20 +162,20 @@ const rupraj = {
   <tr>
     <td width="50%" valign="top">
 
-### PROJECT_NAME_1
-*Short one-line description of what it does and why it matters.*
+### Trapify
+*Think Before You click.*
 
 <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 
-[Repository](https://github.com/ruprajkundu7-rgb/Trapify) · [Live Demo](LIVE_URL_1)
+[Repository](https://github.com/ruprajkundu7-rgb/Trapify) ·
 
   </td>
   <td width="50%" valign="top">
 
-### PROJECT_NAME_2
-*Short one-line description of what it does and why it matters.*
+### OFFIFY
+*Offline Mode text*
 
 <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
