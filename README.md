@@ -162,30 +162,40 @@ const rupraj = {
   <tr>
     <td width="50%" valign="top">
 
-### Trapify
-*Think Before You click.*
+<!-- ============ FEATURED PROJECTS ============ -->
+<!-- EDIT: add more projects by copying a <td> block into a new <tr> row. -->
+<h2 align="center">Featured Projects</h2>
 
-<img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7aa2f7,50:bb9af7,100:2ac3de" width="60%" alt="divider" />
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### Trapify
+*Think before you click.*
+
+<img src="https://img.shields.io/badge/HTML-1a1b26?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 
-[Repository](https://github.com/ruprajkundu7-rgb/Trapify) ·
+[Repository](https://github.com/ruprajkundu7-rgb/Trapify)
 
   </td>
   <td width="50%" valign="top">
 
 ### OFFIFY
-*Offline Mode text*
+*Offline mode, made simple.*
 
-<img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Kotlin-1a1b26?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 
-[Repository](https://github.com/ruprajkundu7-rgb/OFFIFY) · [Live Demo](LIVE_URL_2)
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[Repository](https://github.com/ruprajkundu7-rgb/OFFIFY)
 
   </td>
   </tr>
